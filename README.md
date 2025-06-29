@@ -6,4 +6,4 @@
   </a>
   <p align="center"> I'm on <a href="https://www.codewars.com/users/katozaaaa/"> Codewars </a> </p>
 </div>
-![image](https://github.com/user-attachments/assets/f0c82ac0-7e08-4c8c-b4c4-11b305643268)
+![image](https://i.pinimg.com/originals/79/fb/d6/79fbd61f9631967ccc85e9a04f6c73c3.gif)
